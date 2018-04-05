@@ -4,6 +4,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
@@ -12,6 +14,7 @@ import org.apache.logging.log4j.core.config.ConfigurationSource;
 import org.apache.logging.log4j.core.config.Configurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import qinsTest.test.utils.ScreenShot;
 
@@ -46,7 +49,7 @@ public class TestBase {
 	private static void initialScreenShot(){
 		if(screenShot == null){
 			log.info("Initializing Screen Shot folder ... ");
-			screenShot = new ScreenShot(driver, System.getProperty("user.dir")+ File.separator + "test-result" + File.separator+ "screen_shot");
+			screenShot = new ScreenShot(driver, System.getProperty("user.dir")+ File.separator + "output" + File.separator+ "screen_shot");
 		}
 	}
 	
@@ -106,8 +109,18 @@ public class TestBase {
 			else{
 				log.info("Starting Chrome Driver ... ");
 				System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")
-						+ File.separator+"webDriver"+File.separator+"chromedriver.exe");
-				driver = new ChromeDriver();
+						+ File.separator+"webDriver"+File.separator+"chromedriver_2.37.exe");
+				
+				Map<String, Object> prefs = new HashMap<String, Object>();  
+		          
+		        prefs.put("profile.default_content_setting_values.notifications", 2);  
+		  
+		        ChromeOptions options = new ChromeOptions();  
+		  
+		        options.setExperimentalOption("prefs", prefs);
+				
+				driver = new ChromeDriver(options);
+				driver.manage().window().maximize();
 			}			
 		}		
 	}

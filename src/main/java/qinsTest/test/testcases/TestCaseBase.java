@@ -17,7 +17,7 @@ public abstract class TestCaseBase extends TestBase {
 	
 	@AfterSuite
 	public void tearDown() {
-		quitDriver();
+		//quitDriver();
 	}
 	
 	@BeforeSuite
