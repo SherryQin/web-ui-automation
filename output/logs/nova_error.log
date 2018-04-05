@@ -1,0 +1,34 @@
+[ERROR] 2018-04-05 03:10:59.148 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 03:10:59.606 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405031059151_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 03:13:33.230 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 03:13:33.676 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405031333232_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 03:16:15.710 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 03:16:16.187 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405031615714_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 03:16:39.962 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 03:16:40.458 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405031639965_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 03:29:22.204 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 03:29:22.636 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405032922207_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 03:32:11.104 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 03:32:11.848 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405033211107_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 03:51:08.666 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 03:51:09.234 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405035108667_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 18:25:57.354 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 18:25:57.811 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405182557381_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 18:34:34.279 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 18:34:35.339 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405183434286_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 18:36:30.474 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 18:36:31.124 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405183630475_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 18:49:05.151 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 18:49:05.838 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405184905153_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 19:04:57.304 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 19:04:57.941 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405190457306_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 20:07:04.357 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 20:07:04.986 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405200704359_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 20:19:20.975 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 20:19:21.727 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405201920976_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 20:43:18.120 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 20:43:18.869 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405204318121_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 20:48:55.706 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 20:48:56.434 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405204855709_qinsTest_test_testcases_TestCase1_ttest.png
+[ERROR] 2018-04-05 20:50:29.976 [main] qinsTest.test.testcases.TestCaseBase - Test qinsTest.test.testcases.TestCase1 >> ttest failed, please check!
+[ERROR] 2018-04-05 20:50:30.702 [main] qinsTest.test.utils.ScreenShot - Captured Screenshot for Failure: E:\xuexi\GitHub\web-ui-automation\test-result\screen_shot\20180405205029979_qinsTest_test_testcases_TestCase1_ttest.png
