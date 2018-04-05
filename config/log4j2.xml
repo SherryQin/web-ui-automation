@@ -12,14 +12,14 @@
                 </pattern>>
             </PatternLayout>
         </Console>
-        <File name="File-Appender" fileName="${log-path}/nova.log" >
+        <File name="File-Appender" fileName="${log-path}/qinsTest.log" >
             <PatternLayout>
                 <pattern>                  
                    [%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %C{10} - %msg%n
                 </pattern>
             </PatternLayout>
         </File>        
-        <File name="FileError" fileName="${log-path}/nova_error.log">
+        <File name="FileError" fileName="${log-path}/qinsTest_error.log">
             <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
             <PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %C{10} - %msg%n"/>
         </File>
